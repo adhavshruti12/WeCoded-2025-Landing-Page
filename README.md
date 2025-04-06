@@ -98,10 +98,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Your Name
-- Website: [your-website.com](https://your-website.com)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- DEV.to: [your-dev-profile](https://dev.to/your-profile)
+Shruti Adhav
+- Website: [https://shruti-adhav.vercel.app/](https://shruti-adhav.vercel.app/)
+- DEV.to: [https://dev.to/adhavshruti12](https://dev.to/adhavshruti12)
 
 ---
 
