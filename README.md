@@ -2,7 +2,7 @@
 
 A dynamic and engaging landing page for the annual WeCoded celebration, showcasing diversity and innovation in tech. Built with React, TypeScript, and Tailwind CSS.
 
-![WeCoded 2025](./hero-section.png)
+![WeCoded 2025](./src/hero-section.png)
 
 ## 🚀 Features
 
