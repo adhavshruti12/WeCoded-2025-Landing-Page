@@ -2,6 +2,10 @@
 
 A Celebration of Gender Equity in Software Development . A dynamic and engaging landing page for the annual WeCoded celebration, showcasing diversity and innovation in tech. Built with React, TypeScript, and Tailwind CSS.
 
+### Check the post here:
+https://dev.to/adhavshruti12/wecoded-2025-landing-page-4ak5
+
+
 ![WeCoded 2025](./src/hero-section.png)
 
 ## 🚀 Features
